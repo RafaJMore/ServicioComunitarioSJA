@@ -1,0 +1,20 @@
+[Tue Dec 12 10:25:55.262520 2017] [ssl:warn] [pid 4164:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 10:25:55.673570 2017] [ssl:warn] [pid 4164:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 10:26:03.237089 2017] [mpm_winnt:notice] [pid 4164:tid 376] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Tue Dec 12 10:26:03.237089 2017] [mpm_winnt:notice] [pid 4164:tid 376] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Tue Dec 12 10:26:03.237089 2017] [core:notice] [pid 4164:tid 376] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 12 10:26:03.256174 2017] [mpm_winnt:notice] [pid 4164:tid 376] AH00418: Parent: Created child process 1208
+[Tue Dec 12 10:26:03.787178 2017] [ssl:warn] [pid 1208:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 10:26:04.027401 2017] [ssl:warn] [pid 1208:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 10:26:04.184785 2017] [mpm_winnt:notice] [pid 1208:tid 344] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 13 10:15:04.050544 2017] [ssl:warn] [pid 5836:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 10:15:04.274431 2017] [ssl:warn] [pid 5836:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 10:15:05.768455 2017] [mpm_winnt:notice] [pid 5836:tid 328] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Wed Dec 13 10:15:05.768455 2017] [mpm_winnt:notice] [pid 5836:tid 328] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Wed Dec 13 10:15:05.768455 2017] [core:notice] [pid 5836:tid 328] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 13 10:15:05.799706 2017] [mpm_winnt:notice] [pid 5836:tid 328] AH00418: Parent: Created child process 4780
+[Wed Dec 13 10:15:06.357090 2017] [ssl:warn] [pid 4780:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 10:15:06.547060 2017] [ssl:warn] [pid 4780:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 10:15:06.578311 2017] [mpm_winnt:notice] [pid 4780:tid 328] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 13 10:30:30.004945 2017] [php7:notice] [pid 4780:tid 1684] [client ::1:53710] PHP Notice:  Undefined variable: fila in C:\\xampp\\htdocs\\COLEGIO\\Modulos\\admin\\GenerarPass.php on line 64, referer: http://localhost/COLEGIO/Modulos/admin/PassAlum.php
+[Wed Dec 13 10:30:30.005945 2017] [php7:notice] [pid 4780:tid 1684] [client ::1:53710] PHP Notice:  Undefined variable: fila in C:\\xampp\\htdocs\\COLEGIO\\Modulos\\admin\\GenerarPass.php on line 65, referer: http://localhost/COLEGIO/Modulos/admin/PassAlum.php
